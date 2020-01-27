@@ -1,0 +1,22 @@
+/* use Relay module and HC06 bluetooth receiver to turn on/off LEd wirlessly
+ */
+int relay = 10; 
+void setup()
+{
+   Serial.begin (9600); 
+   pinMode(relay,OUTPUT); 
+ }
+void loop()
+{
+   char val,old_val; 
+  val = Serial.read(); 
+  old_val=val;
+  if (old_val=='1' ) 
+ {
+   digitalWrite(relay,HIGH); 
+  }
+  if(old_val=='0')  
+  {
+    digitalWrite(relay,LOW); 
+  }
+ }
