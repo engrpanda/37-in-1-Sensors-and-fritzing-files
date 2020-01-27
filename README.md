@@ -1,3 +1,5 @@
+![2](https://github.com/engrpanda/37-in-1-Sensor-Kit/blob/master/SENSORkit.jpeg)
+
 # 37-in-1-Sensor-Kit
 Programs, manuals, link, tutorial, Fritzing parts(fzpz)
 
