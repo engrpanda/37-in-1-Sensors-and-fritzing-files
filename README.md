@@ -1,7 +1,10 @@
-![2](https://github.com/engrpanda/37-in-1-Sensor-Kit/blob/master/SENSORkit.jpeg)
-
 # 37-in-1-Sensor-Kit for ARDUINO AND RASPBERRY PI
 Compiled Programs, manuals, link, tutorial, Libraries Fritzing parts(fzpz)
+
+
+![2](https://github.com/engrpanda/37-in-1-Sensor-Kit/blob/master/SENSORkit.jpeg)
+
+
 
 # Arduino
 
