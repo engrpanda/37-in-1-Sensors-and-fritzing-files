@@ -24,3 +24,5 @@ http://brd4.ort.org.il/~ksamuel/ElIn.31361/Exercises/E014.Arduino%20Sensor%20Kit
 https://www.auselectronicsdirect.com.au/assets/files/37-in-1%20Sensor%20Kit%20Guide_compressed%20(1).pdf
 
 https://images-eu.ssl-images-amazon.com/images/I/C1lrpIfADaS.pdf
+
+https://drive.google.com/open?id=1z66K72c2ok3ZyoZixA9jsgK67nvkSQg-
