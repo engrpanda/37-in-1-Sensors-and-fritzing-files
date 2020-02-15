@@ -18,7 +18,7 @@ https://tkkrlab.nl/wiki/Arduino_37_sensors
 
 http://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/
 
-https://github.com/adafruit/Fritzing-Library
+https://github.com/adafruit/Fritzing-Library --fzpz
 
 https://arduibots.wordpress.com/fritzing/ --fzpz
 
