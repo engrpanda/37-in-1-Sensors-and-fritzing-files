@@ -1,4 +1,4 @@
-# 37-in-1-Sensor-Kit for ARDUINO AND RASPBERRY PI
+# 37-in-1-Sensors and fritzing files for ARDUINO AND RASPBERRY PI
 Compiled Programs, manuals, link, tutorial, Libraries Fritzing parts(fzpz)
 
 
