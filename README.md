@@ -22,6 +22,8 @@ https://github.com/adafruit/Fritzing-Library --fzpz
 
 https://arduibots.wordpress.com/fritzing/ --fzpz
 
+https://github.com/rmorenojr/ElegooTutorial --contain program, fzpz fritzing files, tutorial
+
 
 https://drive.google.com/drive/folders/1tXC7kr0RArNawkauYSwRg-tFopH7QHoT
 
