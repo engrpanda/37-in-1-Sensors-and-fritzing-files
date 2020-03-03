@@ -1,6 +1,7 @@
 # 37-in-1-Sensors and fritzing files for ARDUINO AND RASPBERRY PI
 Compiled Programs, manuals, link, tutorial, Libraries Fritzing parts(fzpz)
 
+(all parts, fzpz, pdf, links are not mine i just list & compiled it)
 
 ![2](https://github.com/engrpanda/37-in-1-Sensor-Kit/blob/master/SENSORkit.jpeg)
 
