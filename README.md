@@ -39,6 +39,8 @@ https://drive.google.com/open?id=1z66K72c2ok3ZyoZixA9jsgK67nvkSQg-
 
 #
 # Raspberry PI
+http://sensorkit.en.joy-it.net/index.php?title=Main_Page
+
 https://www.youtube.com/watch?v=8pJRs2G4wNE
 
 http://invent.module143.com/daskal_tutorial/raspberry-pi-3-gpio-analog-sensor-mcp3008-mcp3004/
